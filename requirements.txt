@@ -11,5 +11,6 @@ xgboost
 Flask
 dill
 mlflow
+dagshub
 
 -e .

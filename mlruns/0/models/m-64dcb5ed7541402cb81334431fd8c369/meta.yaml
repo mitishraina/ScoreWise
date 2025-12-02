@@ -1,0 +1,10 @@
+artifact_location: file:///C:/mitishraina/Code/AIML/Prod%20Project/DS%20Pro-1/mlruns/0/models/m-64dcb5ed7541402cb81334431fd8c369/artifacts
+creation_timestamp: 1764696396680
+experiment_id: '0'
+last_updated_timestamp: 1764696403522
+model_id: m-64dcb5ed7541402cb81334431fd8c369
+model_type: null
+name: model
+source_run_id: 6077733d6e1a472aa51cf309f4765104
+status: 2
+status_message: null

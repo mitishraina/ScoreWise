@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/mitishraina/Code/AIML/Prod%20Project/DS%20Pro-1/mlruns/0/6077733d6e1a472aa51cf309f4765104/artifacts
+end_time: 1764696403544
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6077733d6e1a472aa51cf309f4765104
+run_name: orderly-bug-495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764696396548
+status: 3
+tags: []
+user_id: root
